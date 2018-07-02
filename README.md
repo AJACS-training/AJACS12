@@ -45,38 +45,36 @@ AJACS-EZO あっと dbcls どっと rois どっと ac どっと jp
 までお願い致します。</dd>
 </dl>
 
-<div class="jumpmenu">↑</div>
 
-### [_](http://MotDB.DBCLS.jp/?AJACS12#r7405c84 "r7405c84") 内容  
+### 内容  
 
-<div class="jumpmenu">↑</div>
 
-#### [_](http://MotDB.DBCLS.jp/?AJACS12#u8a46e65 "u8a46e65") 1日目：7日(月)  
+####  1日目：7日(月)  
 
 * 9:30 受付開始
 * 9:45-10:05 「はじめに：統合データベースプロジェクトとは？」
-* 10:05-10:15 [「統合TV」](http://MotDB.DBCLS.jp/?AJACS12%2Fhono1 "AJACS12/hono1 (3220d)")
+* 10:05-10:15 [「統合TV」](01_hono1.md)
 * 10:15-11:15 「生命科学横断検索の利用法」
-* 11:15-12:00 [「DNAデータベースの使い方」](http://MotDB.DBCLS.jp/?AJACS12%2Fthecla "AJACS12/thecla (3183d)")
+* 11:15-12:00 [「DNAデータベースの使い方」](02_nakazato.md)
 
 * 12:00-13:30 昼休憩
 
 * 13:30-14:00 招待講演：瀬々潤（お茶の水女子大学）「データベースからの生命科学：タンパク質相互作用と遺伝子発現を例に」
-* 14:00-14:45 [「遺伝子発現データベースを使い倒す」](http://MotDB.DBCLS.jp/?AJACS12%2Fhono2 "AJACS12/hono2 (3220d)")
+* 14:00-14:45 [「遺伝子発現データベースを使い倒す」](03_hono2.md)
 * 14:45-15:15 休憩
-* 15:15-16:00 [「アナトモグラフィー/BodyParts3Dの利用法」 ](http://MotDB.DBCLS.jp/?AJACS12%2Fkaorif "AJACS12/kaorif (3224d)")
-* 16:00-16:45 [「Genome AnnotationとKazusaAnnotation」](http://MotDB.DBCLS.jp/?AJACS12%2Fso "AJACS12/so (3219d)")
+* 15:15-16:00 [「アナトモグラフィー/BodyParts3Dの利用法」 ](04_kaorif.md)
+* 16:00-16:45 [「Genome AnnotationとKazusaAnnotation」](05_so.md)
 * 16:45-17:00 「おわりに」
 
-<div class="jumpmenu">↑</div>
 
-#### [_](http://MotDB.DBCLS.jp/?AJACS12#ob71a64f "ob71a64f") 2日目：8日(火)  
+
+####  2日目：8日(火)  
 
 いただいたリクエストに基づいてプログラムを決定します
 
 * 10:00-12:00
 
-    * [続・遺伝子発現データベースを使い倒す ](http://MotDB.DBCLS.jp/?AJACS12%2Fhono3 "AJACS12/hono3 (3219d)")
+    * [続・遺伝子発現データベースを使い倒す ](06_hono3.md)
     * 次世代シーケンサーから得られる遺伝子配列データの解析手法：配列データとしての発現データを扱う解析パイプラインの開発から
 
 * 12:00-13:00 昼休憩
