@@ -11,16 +11,16 @@
     <dt>日時</dt>
     <dd>2009年9月7日（月）：ライフサイエンス統合データベースセンターが提供するサービスの使い方  
 
-    2009年9月8日（火）：一歩進んだバイオデータベース・ツールの使い方（中上級者向け）  
-    <span style="font-size:12px;display:inline-block;line-height:130%;text-indent:0px">2日目の中上級者向けの講習は、受講者の多様なニーズに対応するため、取り上げて欲しいテーマについてリクエストを受け付けます。</span>
-    <span style="font-size:12px;display:inline-block;line-height:130%;text-indent:0px">申込ページのリクエスト欄にご記入、もしくは下記のメールアドレスまでご連絡ください。</span>
-    <span style="font-size:12px;display:inline-block;line-height:130%;text-indent:0px">なお、リクエストが多数の場合や実行が困難な要望の場合（有償のソフトが必要な場合や一般的なPCでは扱えないものなど）には、取り上げることができない場合もありますのでご了承ください</span></dd>
+2009年9月8日（火）：一歩進んだバイオデータベース・ツールの使い方（中上級者向け）  
+<span style="font-size:12px;display:inline-block;line-height:130%;text-indent:0px">2日目の中上級者向けの講習は、受講者の多様なニーズに対応するため、取り上げて欲しいテーマについてリクエストを受け付けます。</span>
+<span style="font-size:12px;display:inline-block;line-height:130%;text-indent:0px">申込ページのリクエスト欄にご記入、もしくは下記のメールアドレスまでご連絡ください。</span>
+<span style="font-size:12px;display:inline-block;line-height:130%;text-indent:0px">なお、リクエストが多数の場合や実行が困難な要望の場合（有償のソフトが必要な場合や一般的なPCでは扱えないものなど）には、取り上げることができない場合もありますのでご了承ください</span></dd>
     <dt>定員</dt>
     <dd>40名  
 
-    ※両日とも応募者多数の場合は学生を優先させていただきます</dd>
-    <dt>会場</dt>
-    <dd>[北海道大学](http://www.hokudai.ac.jp/) 情報科学研究科棟 M棟 1F [計算機室(M152)](http://www.iec.eng.hokudai.ac.jp/access/index.html)</dd>
+※両日とも応募者多数の場合は学生を優先させていただきます</dd>
+<dt>会場</dt>
+<dd>[北海道大学](http://www.hokudai.ac.jp/) 情報科学研究科棟 M棟 1F [計算機室(M152)](http://www.iec.eng.hokudai.ac.jp/access/index.html)</dd>
 </dl>
 
 <dl class="list1" style="padding-left:16px;margin-left:16px">
@@ -33,19 +33,16 @@
     参加申し込みをされた方には、確認のメールを送信させていただいております。メールが届かない方や、覚えのないメールを受けとられた方はお問い合わせのメールまでご連絡をお願い致します。
 
 
-    <pre>
-    統合データベース講習会：AJACS蝦夷　お申し込みフォーム
-    </pre>
-
-    * 参加申し込みは締め切らせていただきました。たくさんのお申し込みありがとうございました。</dd>
-    <dt>お問い合わせ</dt>
-    <dd>講習会に関するお問い合わせは
-
-
-    <pre>
-    AJACS-EZO あっと dbcls どっと rois どっと ac どっと jp
-    </pre>
-    までお願い致します。</dd>
+<pre>
+統合データベース講習会：AJACS蝦夷　お申し込みフォーム
+</pre>
+* 参加申し込みは締め切らせていただきました。たくさんのお申し込みありがとうございました。</dd>
+<dt>お問い合わせ</dt>
+<dd>講習会に関するお問い合わせは
+<pre>
+AJACS-EZO あっと dbcls どっと rois どっと ac どっと jp
+</pre>
+までお願い致します。</dd>
 </dl>
 
 <div class="jumpmenu">↑</div>
